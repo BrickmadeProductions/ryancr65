@@ -2,7 +2,7 @@
   - I own a small indie development company - Brickmade Productions
   - We currently have 2 Games:
      Welcome To The Backrooms https://store.steampowered.com/app/2007010/Welcome_To_The_Backrooms/
-     Arcane Arena (Currenly In Development)
+     Arcane Arena (Currently In Development)
     
   - And I am currently working on an in house engine written entirely in C++.
   
